@@ -26,10 +26,10 @@ SRFv2 is a program to find repeats using various digital signal processing (DSP)
 ### Run the following command on command line
 
 #### For fast algorithm
-SRFv2_fast.py <fasta sequence file> <min mer> <max mer> <percent match> <output directory> [options]
+SRFv2_fast.py fasta_sequence_file min_mer max_mer percent_match output_directory [options]
 
 #### For exhaustive algorithm
-SRFv2_exhaustive.py <fasta sequence file> <min mer> <max mer> <percent match> <output directory> [options]
+SRFv2_exhaustive.py fasta_sequence_file min_mer max_mer percent_match output_directory [options]
 
 #### Options are
 - -c: Copy Number
