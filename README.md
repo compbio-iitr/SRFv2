@@ -34,3 +34,6 @@ SRFv2_exhaustive.py fasta_sequence_file min_mer max_mer percent_match output_dir
 #### Options are
 - -c: Copy Number
 - -p: Peak value threshold
+
+## Graphical Abstract
+![Graphical Abstract](https://drive.google.com/uc?export=view&id=1nb2vkqH5_0B56P0mKdpqpwAlLY1pM4Ng)
